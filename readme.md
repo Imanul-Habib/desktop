@@ -1,3 +1,3 @@
 #git cousre
 
-#bug branchgit
+#this is the actual new bug branch
